@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+.gray {
+    color: rgb(184, 181, 190);
+}
+
+.bold {
+    font-weight: bold;
+}
